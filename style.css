@@ -1,0 +1,377 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.nav1 {
+    width: 100%;
+    background-color: #174770;
+    height: 50px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.nav-item {
+    padding-left: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.nav-item a {
+    padding: 10px;
+    text-decoration-line: none;
+    color: white;
+}
+
+.btn2 {
+    margin-right: 50px;
+    font-family: 'Oswald', sans-serif;
+    background-color: #0074da;
+    border: 0px;
+    color: azure;
+    border-radius: 5px;
+    padding: 0px;
+}
+
+.btn2:hover {
+    background-color: black;
+
+}
+
+.btn1:hover {
+    color: gray;
+    background-color: #16c271da;
+    transition: 200ms;
+    color: black;
+}
+
+.nav-2 {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+
+}
+
+.nav-2 img {
+    position: absolute;
+    height: 80px;
+    left: 50px;
+    margin-top: 10px;
+    margin-left: 60px;
+    float: right;
+}
+
+.nav-2 img:hover {
+    margin-top: 8px;
+    height: 84px;
+    transition: 300ms;
+}
+
+.nav-2 {
+    align-self: center;
+    align-items: center;
+    margin-right: 50px;
+
+}
+
+.butt-1:hover {
+
+    transition: 300ms;
+}
+
+.nav-2 a {
+    margin: 10px;
+    font-family: system-ui, -apple-system, ;
+    text-decoration-line: none;
+    color: #002b6b;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+#section1 {
+    background-image: none;
+    height: 50px;
+    width: 100px;
+    display: flex;
+}
+
+#head h1 {
+    color: #174770;
+    font-weight: 700;
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 40px;
+    color: #174770;
+    ;
+}
+
+span {
+    font-weight: 400;
+}
+
+.img2 img {
+    height: 500px;
+}
+
+h2 {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 20px;
+    padding-left: 100px;
+    font-weight: 100;
+    color: black;
+}
+
+.baground {
+    background-image: url("/img/IPFSCOM Front Page header bkgd.jpg");
+    display: flex;
+
+
+}
+
+.butt-1 {
+    padding-left: 100px;
+}
+
+.butt-1 a {
+    font-family: 'Oswald', sans-serif;
+    background-color: #0074da;
+    color: azure;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.butt-1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+#a.first-child {
+    margin-right: auto;
+}
+
+
+.butt-1 a:hover {
+    background-color: #002b6b;
+    color: aqua;
+    transition: 250ms;
+
+}
+
+.butt-3 a {
+    text-decoration: none;
+    color: black;
+    padding-left: 5vh;
+    margin-left: 10vh;
+
+}
+
+.butt-3 a:hover {
+    color: lightseagreen;
+    transition: 200ms;
+
+}
+
+.baground-Container {
+
+    display: flex;
+
+}
+
+.section1-1 img {
+
+    width: 500px;
+    height: 300px;
+margin-left: 20%;
+
+}
+
+.section2 {
+    display: flex;
+    margin-top: 2%;
+    margin-left: 10%;
+
+}
+
+
+h3 {
+    padding-left: 100px;
+
+
+    font-family: 'Courier New', Courier, monospace;
+
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+
+    color: #51b5e0;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 100;
+    letter-spacing: 1px;
+    text-transform: none;
+}
+
+h4 {
+    font-style: normal;
+    font-weight: 100;
+}
+
+.hero {
+    display: flex;
+    background-color: rgba 128, 128, 132, 0.1
+}
+
+.img3,
+.img4 {
+    padding: 0% 3% 0% 3%;
+    background-color: rgb(242, 242, 242)
+}
+
+.img3 img,
+.img4 img {
+    width: 100%;
+
+}
+
+#section3 {
+    background-color: rgba(128, 128, 132, 0.1);
+    height: 800px;
+}
+
+.compny {
+    color: #0074da;
+    font-weight: 50;
+}
+
+.ipfs {
+    color: #0074da;
+    font-weight: 100;
+}
+
+.words1 {
+    font-weight: 100;
+    color: #0c263d;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    text-decoration: none;
+    text-transform: none;
+}
+
+.words2 {
+    font-weight: 100;
+    color: #0c263d;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    text-decoration: none;
+    text-transform: none;
+}
+
+#section4 {
+    display: flex;
+    justify-content: space-between;
+    background: #002b6b;
+    height: 30vh;
+    margin-top: -7%
+}
+
+.sec4-1 h1 {
+    color: aliceblue;
+    justify-content: center;
+    padding-left: 10%;
+}
+
+.naav:hover {
+    color: black;
+}
+
+.sec4-2 span {
+    color: white;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 34px;
+    padding-left: 100px;
+    
+}
+
+
+
+#footer {
+    height: 120vh;
+    background: grey;
+   
+}
+
+#footer img {
+    height: 18vh;
+    margin-left: 10vh;
+    margin-top: 10vh;
+}
+
+
+#footer p {
+    width: fit-content;
+    margin-left: 10vh;
+    font-weight: 800;
+    color: black;
+
+}
+
+#footer2 {
+    display: flex;
+    justify-content: space-around
+    
+}
+
+.f1 h2,
+.f2 h2,
+.f3 h2,
+.f4 h2 {
+    justify-content: center;
+    font-size: medium;
+    padding-left: 5vh;
+    color: black;
+}
+
+.f5 h2 {
+    color: white;
+    font-weight: 100;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    background-color: #51b5e0;
+
+}
+.paymnt:hover{
+ transition: 10ms;
+    color: black;
+    background-color: red;
+   
+}
+.final {
+    display: flex;
+    justify-content: space-around;
+    color: black;
+}
+
+.final h2 {
+    color: black;
+    font-weight: 100;
+    font-size: medium;
+}
+
